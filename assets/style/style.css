@@ -1,0 +1,39 @@
+*{
+    /* border: 1px solid blue; */
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 25vh;
+    width: 100vw;
+    background-image: url(../images/pexels-photo-12988675.jpeg);
+    object-fit: fill;
+}
+main{
+    min-height: 5vh;
+    width: 100vw;
+}
+.choose{
+    display: flex;
+    justify-content: center;
+}
+.imagen-uno{
+    background-image: url(../images/pexels-justyna-serafin-13164394.jpg);
+    height: 40vh;
+    width: 20vw;
+    object-fit: fill;
+}
+.imagen-dos{
+    background-image: url(../images/pexels-amber-janssens-12418634.jpg);
+    height: 40vh;
+    width: 20vw;
+    object-fit: fill;
+}
+.imagen-tres{
+    background-image: url(../images/pexels-lucas-suárez-13170472.jpg);
+    height: 40vh;
+    width: 20vw;
+    object-fit: fill;
+}
+
